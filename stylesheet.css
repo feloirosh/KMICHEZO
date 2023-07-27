@@ -14,7 +14,12 @@ body {
   text-align: center;
   padding: 20px;
 }
-
+/* Style the footer */
+.footer {
+  background-color: blue;
+  padding: 10px;
+  text-align: left;
+}
 /* Style the top navigation bar */
 .topnav {
   overflow: hidden;
