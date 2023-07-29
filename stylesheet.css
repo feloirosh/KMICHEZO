@@ -4,10 +4,6 @@
   box-sizing: border-box;
 }
 
-body {
-  margin: 0;
-}
-
 /* Style the header */
 .header {
   background-color: #F1F1F1;
@@ -125,7 +121,9 @@ li.dropdown {
   }
 }
 head {color: black;}
-body {background-color: WHITE;}
+body {background-color: WHITE;
+     overflow-y:scroll;
+     margin:0;}
 h1   {color: BLACK;}
 h2   {color: BLACK;}
 H3   {COLOR: black;}
