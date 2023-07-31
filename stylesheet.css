@@ -30,7 +30,8 @@ section{
 .one{
   background-color:yellow;
   height:30vh;
- WIDTH: 48VH;
+ WIDTH: 48VH;  
+  object-fit=contain;
 }
 ul {
   list-style-type: none;
