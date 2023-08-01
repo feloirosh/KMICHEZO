@@ -15,9 +15,12 @@
 }
 /* Style the footer */
 .footer {
+  font-weight:bold;
+  font-family: Arial;
+  color:white;
   background-color: blue;
-  padding: 10px;
-  text-align: left;
+  padding: 20px;
+  width:100%
 }
 /* Style the top navigation bar */
 .topnav {
@@ -30,8 +33,7 @@ section{
 .one{
   background-color:yellow;
   height:30vh;
- WIDTH: 48VH;  
-  object-fit=contain;
+  WIDTH: 48VH;  
 }
 ul {
   list-style-type: none;
@@ -96,8 +98,7 @@ li.dropdown {
 
 /* Create three unequal columns that floats next to each other */
 .column {
-  float: left;
-  padding: 10px;
+  float: left
 }
 
 /* Left and right column */
@@ -142,8 +143,8 @@ table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
 }
-.iframe}
-  padding:0x:
+.iframe{
+  margin:2.5px;
 }
 /* Set height of body and the document to 100% */
 body, html {
