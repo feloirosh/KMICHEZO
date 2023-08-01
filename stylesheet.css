@@ -144,7 +144,7 @@ table, th, td {
   border-collapse: collapse;
 }
 .iframe{
-  margin:2.5px;
+  margin: 5px;
 }
 /* Set height of body and the document to 100% */
 body, html {
