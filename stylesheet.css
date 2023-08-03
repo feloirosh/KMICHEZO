@@ -144,7 +144,7 @@ li.dropdown {
 }
 
 /* Responsive layout - makes the three columns stack next to each other */
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 600px) {
   .column.side, .column.middle {
     width: 100%;
   }
